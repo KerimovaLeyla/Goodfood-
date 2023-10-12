@@ -1,0 +1,29 @@
+#allFood {
+  
+    background-color: rgb(77, 21, 21);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .item img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+  }
+  .left{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .picture img{
+    width: 350px;
+    height: 450px;
+  }
+  
